@@ -62,6 +62,31 @@ div.stretchy-wrapper > div {
   border-radius: 100px;
 }
 
+a:link {
+    font-weight: 900;
+    text-decoration: none;
+    color: inherit;
+}
+
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: inherit;
+}
+
+a:active {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.tenPxPad {
+  padding: 10px;
+}
+
 /* Sections
 */
 .section {
